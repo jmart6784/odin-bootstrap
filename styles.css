@@ -1,0 +1,19 @@
+* {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.yellow {
+  background-color: #ffe400;
+}
+
+#nav2 a:hover {
+  color: rgb(180, 69, 17) !important;
+}
+
+.orange-hov:hover {
+  color: rgb(180, 69, 17) !important;
+}
+
+.text-gray {
+  color: rgb(90, 90, 90);
+}
