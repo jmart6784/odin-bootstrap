@@ -17,3 +17,27 @@
 .text-gray {
   color: rgb(90, 90, 90);
 }
+
+.gray-hov:hover {
+  color: rgb(90, 90, 90) !important;
+}
+
+.bg-very-light {
+  background-color: rgb(228, 228, 228);
+}
+
+.article-link-hover:hover {
+  text-decoration-color: rgb(180, 69, 17) !important;
+}
+
+.fit-content {
+  width: fit-content;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.flex-even {
+  flex: 1;
+}
